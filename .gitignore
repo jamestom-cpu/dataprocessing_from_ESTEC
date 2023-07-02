@@ -1,0 +1,7 @@
+*.log
+.Trash-0
+my_packages/__*
+my_packages/*.pyc
+*_checkpoints*
+point_coordinates
+measurements.h5
